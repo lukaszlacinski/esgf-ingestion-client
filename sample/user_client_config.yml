@@ -1,0 +1,3 @@
+server: app006.cels.anl.gov/ingestion
+openid: https://app006.cels.anl.gov/esgf-idp/openid/yourname
+password: yourpassword
